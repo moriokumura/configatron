@@ -5,7 +5,7 @@ require 'configatron/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "configatron"
-  gem.version       = Configatron::VERSION
+  gem.version       = '4.5.1a'
   gem.authors       = ["Mark Bates"]
   gem.email         = ["mark@markbates.com"]
   gem.description   = %q{A powerful Ruby configuration system.}
